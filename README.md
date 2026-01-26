@@ -24,12 +24,11 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-## 📌 Projects
-- **StadeOnline** – Football stats web app  
-  https://github.com/Distorver/StadeOnline
+## ⌨️ Projects
+- ![StadeOnline](https://github.com/Distorver/StadeOnline) Football stats web-app.
 
-## 🌐 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/3li-ayman
-- 📫 Email: ali.ayman.eid@proton.me
+## 📲 Connect With Me
+- 📝 LinkedIn: www.linkedin.com/in/3li-ayman
+- ✉️ Email: ali.ayman.eid@proton.me
 
 ⭐ Thanks for stopping by! Feel free to explore my repos and follow my journey
