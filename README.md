@@ -10,7 +10,7 @@
 🔮 Planning to dive into **Full-Stack** soon  
 🧠 Always learning algorithms & problem-solving  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Distorver&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Distorver&layout=compact&theme=merko)
 
 
 ## 🖥️ Tech Stack
