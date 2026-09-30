@@ -26,7 +26,7 @@
 
 ## ⌨️ Projects
 - ![StadeOnline](https://github.com/Distorver/StadeOnline) Football stats web-app.
-- ![College Game](https://github.com/Distorver/College-Game-Project) 2D platformer game using cpp openGL(GLUT).
+- ![OpenGL Level Devil clone](https://github.com/Distorver/College-Game-Project) 2D platformer game using cpp openGL(GLUT).
 - ![dotfiles](https://github.com/Distorver/dotfiles) my dotfiles for hyprland arch linux.
 
 ## 📲 Connect With Me
